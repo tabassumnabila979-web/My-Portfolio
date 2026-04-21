@@ -32,7 +32,7 @@ Live Website: [ https://tabassumnabila979-web.github.io/My-Portfolio/]( https://
 1. Clone the repository:
    git clone https://github.com/tabassumnabila979-web/My-Portfolio.git
 2. Navigate to the directory:
-   cd nabila-portfolio
+   cd My-Portfolio
 3. Open index.html in a web browser or serve via a local development server.
 
 ## About the Author
